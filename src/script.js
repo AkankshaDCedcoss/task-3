@@ -66,3 +66,10 @@ const quotient = 4.4/ 2.0;
 //Divide One Decimal by Another with JavaScript subtask 19
 const remainder = 11 % 3;
 //Finding a Remainder in JavaScript subtask 20
+let a = 3;
+let b = 17;
+let c = 12;
+a += 12;
+b += 9;
+c +=7;
+//Compound Assignment With Augmented Addition subtask 21
