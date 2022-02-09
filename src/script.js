@@ -8,3 +8,6 @@ var myName;
 var a;
 a = 7;
 //Storing Values with the Assignment Operator subtask 3
+var b;
+b = a;
+//Assigning the Value of One Variable to Another subtask 4
