@@ -167,4 +167,6 @@ const myArray = [
   //Manipulate Arrays With shift() subtask 46
   myArray.unshift(["Paul", 35]);
   //Manipulate Arrays With unshift()
+  const myList = [["Abc" , 10],["pqr" , 11], ["xyz",12],["apple",13], ["orange" , 14]];
+  //Shopping List subtask 48
 
