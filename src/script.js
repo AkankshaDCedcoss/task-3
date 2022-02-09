@@ -182,5 +182,13 @@ return a+b;
 console.log(functionWithArgs(1,2));
 console.log(functionWithArgs(7,9));
 //Passing Values to Functions with Arguments subtask 50
+function timesFive(a)
+{
+return a*5;
+}
+timesFive(5)
+timesFive(2)
+timesFive(0)
+//Return a Value from a Function with Return subtask 51
 
 
