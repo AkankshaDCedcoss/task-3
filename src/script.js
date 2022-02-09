@@ -123,5 +123,8 @@ firstLetterOfLastName = lastName[0];
 let myStr = "Jello World";
 myStr = "Hello World";
 //Understand String Immutability subtask 34
+const lastName = "Lovelace";
+const thirdLetterOfLastName = lastName[2];
+//Use Bracket Notation to Find the Nth Character in a String subtask 35
 
 
