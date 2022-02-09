@@ -267,6 +267,15 @@ return "Yes, that was true";
 return "No, that was false";
 }
 //Use Conditional Logic with If Statements subtask 59
+function testEqual(val) {
+    if (val=="12") { // Change this line
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+  
+  testEqual(10);
+  //Comparison with the Equality Operator subtask 60
 
 
 
