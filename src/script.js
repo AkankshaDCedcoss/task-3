@@ -136,8 +136,14 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 const wordBlanks =
   " " + myNoun + "  " + myAdjective + "  " + myVerb + "  " + myAdverb + ".";
-  //Word Blanks subtask 38
-  const myArray = ["ABC",10];
-  //Store Multiple Values in one Variable using JavaScript Arrays subtask 39
-  const myArray = [["ABC",10],["XYZ",11]];
-  //Nest one Array within Another Array subtask 40
+//Word Blanks subtask 38
+const myArray = ["ABC", 10];
+//Store Multiple Values in one Variable using JavaScript Arrays subtask 39
+const myArray = [
+  ["ABC", 10],
+  ["XYZ", 11],
+];
+//Nest one Array within Another Array subtask 40
+const myArray = [50, 60, 70];
+const myData = myArray[0];
+//Access Array Data with Indexes subtask 41
