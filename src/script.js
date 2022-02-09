@@ -214,6 +214,16 @@ function fun2() {
   myLocalScope();
   console.log('outside myLocalScope', myVar);
   //Local Scope and Functions subtask 53  
+  const outerWear = "T-Shirt";
+
+function myOutfit() {
+    const myOutfit = "sweater";
+ return myOutfit;
+ return outerWear;
+}
+
+myOutfit();
+//Global vs. Local Scope in Functions subtask 54
 
 
 
