@@ -259,6 +259,14 @@ function welcomeToBooleans() {
     return true;
 }
 // Understanding Boolean Values subtask 58
+function trueOrFalse(wasThatTrue) {
+    if (wasThatTrue==true)
+{
+return "Yes, that was true";
+}
+return "No, that was false";
+}
+//Use Conditional Logic with If Statements subtask 59
 
 
 
