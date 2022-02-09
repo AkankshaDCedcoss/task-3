@@ -169,4 +169,11 @@ const myArray = [
   //Manipulate Arrays With unshift()
   const myList = [["Abc" , 10],["pqr" , 11], ["xyz",12],["apple",13], ["orange" , 14]];
   //Shopping List subtask 48
+  function reusableFunction ()
+{
+  console.log("Hi World");
+}
+var x = reusableFunction();
+//Write Reusable JavaScript with Functions subtask 49
+
 
