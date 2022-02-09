@@ -87,3 +87,10 @@ a *= 5;
 b *= b;
 c *= 10;
 //Compound Assignment With Augmented Multiplication subtask 23
+let a = 48;
+let b = 108;
+let c = 33;
+a /= 12;
+b /= 4;
+c /= 11;
+//Compound Assignment With Augmented Division subtask 24
