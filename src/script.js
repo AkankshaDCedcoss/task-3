@@ -108,4 +108,9 @@ myStr += " This is the second sentence.";
 const myName = "ABC";
 const myStr = "My name is "+ myName +"and I am well!";
 //Constructing Strings with Variables subtask 30
+const someAdjective = "ABC";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
+//Appending Variables to Strings subtask 31
+
 
