@@ -80,3 +80,10 @@ a -= 6;
 b -= 15;
 c -= 1;
 //Compound Assignment With Augmented Subtraction subtask 22
+let a = 5;
+let b = 12;
+let c = 4.6;
+a *= 5;
+b *= b;
+c *= 10;
+//Compound Assignment With Augmented Multiplication subtask 23
