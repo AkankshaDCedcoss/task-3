@@ -13,3 +13,6 @@ b = a;
 //Assigning the Value of One Variable to Another subtask 4
 var a = 9;
 //Initializing Variables with the Assignment Operator subtask 5
+var myFirstName = "ABC"
+var myLastName = "XYZ"
+//Declare String Variables subtask 6
