@@ -51,3 +51,6 @@ const product = 8 * 10;
 //Multiply Two Numbers with JavaScript subtask 13
 const quotient = 66 / 33;
 //Divide One Number by Another with JavaScript subtask 14
+let myVar = 87;
+myVar = myVar++;
+//Increment a Number with JavaScript subtask 15
