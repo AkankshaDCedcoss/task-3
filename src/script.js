@@ -239,6 +239,13 @@ function addFive()
 addThree();
 addFive();
 //Understanding Undefined Value returned from a Function subtask 55
+let processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+processed=processArg(7);
+//Assignment with a Returned Value subtask 56
 
 
 
