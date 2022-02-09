@@ -94,19 +94,19 @@ a /= 12;
 b /= 4;
 c /= 11;
 //Compound Assignment With Augmented Division subtask 24
-const myStr = 'I am a \"double quoted\" string inside \"double quotes\".';
+const myStr = 'I am a "double quoted" string inside "double quotes".';
 //Escaping Literal Quotes in Strings subtask 25
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 //Quoting Strings with Single Quotes subtask 26
-const myStr = 'FirstLine\n\t\\SecondLine\nThirdLine'; 
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 //Escape Sequences in Strings subtask 27
-const myStr = "This is the start. "+"This is the end.";
+const myStr = "This is the start. " + "This is the end.";
 //Concatenating Strings with Plus Operator subtask 28
 let myStr = "This is the first sentence.";
 myStr += " This is the second sentence.";
 //Concatenating Strings with the Plus Equals Operator subtask 29
 const myName = "ABC";
-const myStr = "My name is "+ myName +"and I am well!";
+const myStr = "My name is " + myName + "and I am well!";
 //Constructing Strings with Variables subtask 30
 const someAdjective = "ABC";
 let myStr = "Learning to code is ";
@@ -126,7 +126,7 @@ myStr = "Hello World";
 const lastName = "Lovelace";
 const thirdLetterOfLastName = lastName[2];
 //Use Bracket Notation to Find the Nth Character in a String subtask 35
-const lastLetterOfLastName = lastName[lastName.length-1];
+const lastLetterOfLastName = lastName[lastName.length - 1];
 //Use Bracket Notation to Find the Last Character in a String subtask 36
-
-
+const secondToLastLetterOfLastName = lastName[lastName.length - 2];
+//Use Bracket Notation to Find the Nth-to-Last Character in a String subtask3 37
