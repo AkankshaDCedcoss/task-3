@@ -137,3 +137,5 @@ const myAdverb = "quickly";
 const wordBlanks =
   " " + myNoun + "  " + myAdjective + "  " + myVerb + "  " + myAdverb + ".";
   //Word Blanks subtask 38
+  const myArray = ["ABC",10];
+  //Store Multiple Values in one Variable using JavaScript Arrays subtask 39
