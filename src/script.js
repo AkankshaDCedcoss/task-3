@@ -100,3 +100,5 @@ const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 //Quoting Strings with Single Quotes subtask 26
 const myStr = 'FirstLine\n\t\\SecondLine\nThirdLine'; 
 //Escape Sequences in Strings subtask 27
+const myStr = "This is the start. "+"This is the end.";
+//Concatenating Strings with Plus Operator subtask 28
