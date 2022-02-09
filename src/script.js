@@ -165,4 +165,6 @@ const myArray = [
   //Manipulate Arrays With pop() subtask 45
   const removedFromMyArray = myArray.shift();
   //Manipulate Arrays With shift() subtask 46
+  myArray.unshift(["Paul", 35]);
+  //Manipulate Arrays With unshift()
 
