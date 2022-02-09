@@ -340,6 +340,20 @@ function testEqual(val) {
   
   testGreaterOrEqual(10);
   //Comparison with the Greater Than Or Equal To Operator subtask 66
+  unction testLessThan(val) {
+    if (val < 25) {  // Change this line
+      return "Under 25";
+    }
+  
+    if (val < 55) {  // Change this line
+      return "Under 55";
+    }
+  
+    return "55 or Over";
+  }
+  
+  testLessThan(10);
+  //Comparison with the Less Than Operator subtask 67
 
 
 
