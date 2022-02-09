@@ -163,4 +163,6 @@ const myArray = [
   //Manipulate Arrays With push() subtask 44
   const removedFromMyArray = myArray.pop();
   //Manipulate Arrays With pop() subtask 45
+  const removedFromMyArray = myArray.shift();
+  //Manipulate Arrays With shift() subtask 46
 
