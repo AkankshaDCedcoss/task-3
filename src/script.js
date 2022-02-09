@@ -64,3 +64,5 @@ const product = 5.0 * 1.0;
 //Multiply Two Decimals with JavaScript subtask 18
 const quotient = 4.4/ 2.0; 
 //Divide One Decimal by Another with JavaScript subtask 19
+const remainder = 11 % 3;
+//Finding a Remainder in JavaScript subtask 20
