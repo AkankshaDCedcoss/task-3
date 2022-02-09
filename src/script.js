@@ -255,6 +255,10 @@ console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 6));
 console.log("After: " + JSON.stringify(testArr));
 //Stand in Line subtask 57
+function welcomeToBooleans() {
+    return true;
+}
+// Understanding Boolean Values subtask 58
 
 
 
