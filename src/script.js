@@ -1,7 +1,7 @@
 //This is a single line comment
 
 /* This is a multiline comment
-*/
+ */
 //Comment Your JavaScript Code subtask 1
 var myName;
 //Declare JavaScript Variables subtask 2
@@ -13,8 +13,8 @@ b = a;
 //Assigning the Value of One Variable to Another subtask 4
 var a = 9;
 //Initializing Variables with the Assignment Operator subtask 5
-var myFirstName = "ABC"
-var myLastName = "XYZ"
+var myFirstName = "ABC";
+var myLastName = "XYZ";
 //Declare String Variables subtask 6
 var a;
 var b;
@@ -38,7 +38,7 @@ titleCaseOver = 9000;
 let catName = "Oliver";
 let catSound = "Meow!";
 //Explore Differences Between the var and let Keywords subtask 9
-const FCC = "freeCodeCamp"; 
+const FCC = "freeCodeCamp";
 let fact = "is cool!";
 fact = "is awesome!";
 console.log(FCC, fact);
@@ -60,3 +60,5 @@ myVar = --myVar;
 const ourDecimal = 5.7;
 var myDecimal = 5.7;
 //Create Decimal Numbers with JavaScript subtask 17
+const product = 5.0 * 1.0;
+//Multiply Two Decimals with JavaScript subtask 18
