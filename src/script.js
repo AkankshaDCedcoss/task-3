@@ -62,7 +62,7 @@ var myDecimal = 5.7;
 //Create Decimal Numbers with JavaScript subtask 17
 const product = 5.0 * 1.0;
 //Multiply Two Decimals with JavaScript subtask 18
-const quotient = 4.4/ 2.0; 
+const quotient = 4.4 / 2.0;
 //Divide One Decimal by Another with JavaScript subtask 19
 const remainder = 11 % 3;
 //Finding a Remainder in JavaScript subtask 20
@@ -71,7 +71,7 @@ let b = 17;
 let c = 12;
 a += 12;
 b += 9;
-c +=7;
+c += 7;
 //Compound Assignment With Augmented Addition subtask 21
 let a = 11;
 let b = 9;
@@ -94,3 +94,5 @@ a /= 12;
 b /= 4;
 c /= 11;
 //Compound Assignment With Augmented Division subtask 24
+const myStr = 'I am a "double quoted" string inside "double quotes".';
+//Escaping Literal Quotes in Strings subtask 25
