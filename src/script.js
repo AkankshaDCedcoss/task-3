@@ -175,5 +175,12 @@ const myArray = [
 }
 var x = reusableFunction();
 //Write Reusable JavaScript with Functions subtask 49
+function functionWithArgs(a,b)
+{
+return a+b;
+}
+console.log(functionWithArgs(1,2));
+console.log(functionWithArgs(7,9));
+//Passing Values to Functions with Arguments subtask 50
 
 
