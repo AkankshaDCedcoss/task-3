@@ -38,3 +38,8 @@ titleCaseOver = 9000;
 let catName = "Oliver";
 let catSound = "Meow!";
 //Explore Differences Between the var and let Keywords subtask 9
+const FCC = "freeCodeCamp"; 
+let fact = "is cool!";
+fact = "is awesome!";
+console.log(FCC, fact);
+//Declare a Read-Only Variable with the const Keyword subtask 10
