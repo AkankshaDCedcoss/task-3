@@ -112,5 +112,9 @@ const someAdjective = "ABC";
 let myStr = "Learning to code is ";
 myStr += someAdjective;
 //Appending Variables to Strings subtask 31
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
+//Find the Length of a String subtask 32
 
 
