@@ -368,6 +368,21 @@ function testEqual(val) {
   
   testLessOrEqual(10);
   //Comparison with the Less Than Or Equal To Operator subtask 68
+  function testLogicalAnd(val) {
+    // Only change code below this line
+  
+    if ( (val <= 50) && (val >= 25) ) {
+      
+        return "Yes";
+      }
+    
+  
+    // Only change code above this line
+    return "No";
+  }
+  
+  testLogicalAnd(10);
+  //Comparisons with the Logical And Operator subtask 69
 
 
 
