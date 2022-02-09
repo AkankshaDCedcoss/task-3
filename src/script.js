@@ -45,3 +45,7 @@ console.log(FCC, fact);
 //Declare a Read-Only Variable with the const Keyword subtask 10
 const sum = 10 + 10;
 //Add Two Numbers with JavaScript subtask 11
+const difference = 45 - 33;
+//Subtract One Number from Another with JavaScript subtask 12
+const product = 8 * 10;
+//Multiply Two Numbers with JavaScript subtask 13
