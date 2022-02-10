@@ -756,3 +756,25 @@ const myDog = {
 // Only change code below this line
 delete myDog.tails;
 //Delete Properties from a JavaScript Object subtask 87
+function phoneticLookup(val) {
+  let result = "";
+
+  // Only change code below this line
+   const x= {
+      "alpha": "Adams",
+        "bravo": "Boston",
+        "charlie": "Chicago",
+        "delta": "Denver",
+        "echo": "Easy",  
+        "foxtrot":"Frank"
+    
+  };
+  result=x[val];
+
+
+  // Only change code above this line
+  return result;
+}
+
+phoneticLookup("charlie");
+//Using Objects for Lookups subtask 88
