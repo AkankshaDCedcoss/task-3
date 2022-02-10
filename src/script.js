@@ -1005,4 +1005,11 @@ if (n <= 0) {
   
   convertToInteger("56");
   //Use the parseInt Function subtask 106
+  function convertToInteger(str) {
+    const convertToInteger = parseInt(str, 2);
+    return convertToInteger;
   
+  }
+  
+  convertToInteger("10011");
+  //Use the parseInt Function with a Radix subtask 107
