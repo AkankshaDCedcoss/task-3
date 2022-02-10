@@ -1013,3 +1013,10 @@ if (n <= 0) {
   
   convertToInteger("10011");
   //Use the parseInt Function with a Radix subtask 107
+  function checkEqual(a, b) {
+    return a == b ? "Equal" : "Not Equal";
+  
+  }
+  
+  checkEqual(1, 2);
+  //Use the Conditional (Ternary) Operator subtask 108
