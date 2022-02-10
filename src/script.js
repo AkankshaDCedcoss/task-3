@@ -1020,3 +1020,13 @@ if (n <= 0) {
   
   checkEqual(1, 2);
   //Use the Conditional (Ternary) Operator subtask 108
+  function checkSign(num) {
+
+    return (num < 0) ? "negative" 
+       : (num > 0) ? "positive" 
+       : "zero";
+   }
+   
+   
+   checkSign(10);
+   //Use Multiple Conditional (Ternary) Operators subtask 109
