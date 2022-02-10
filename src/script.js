@@ -984,3 +984,10 @@ if (n <= 0) {
   
   }
   //Generate Random Fractions with JavaScript subtask 103
+  function randomWholeNum() {
+
+    // Only change code below this line
+  
+    return Math.floor(Math.random() * 10);
+  }
+  //Generate Random Whole Numbers with JavaScript subtask 104
