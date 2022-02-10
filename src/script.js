@@ -884,3 +884,10 @@ for (let i = 1; i <10; i += 2) {
   myArray.push(i);
 }
 //Iterate Odd Numbers With a For Loop subtask 96
+const myArray = [];
+
+// Only change code below this line
+for (let i = 9; i > 0; i -= 2) {
+  myArray.push(i);
+}
+//Count Backwards With a For Loop subtask 97
