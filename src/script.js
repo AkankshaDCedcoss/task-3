@@ -866,3 +866,12 @@ while (i >= 0) {
   i--;
 }
 //Iterate with JavaScript While Loops subtask 94
+const myArray = [];
+
+// Only change code below this line
+const ourArray = [];
+
+for (let i = 1; i <= 5; i++) {
+  myArray.push(i);
+}
+//Iterate with JavaScript For Loops subtask 95
