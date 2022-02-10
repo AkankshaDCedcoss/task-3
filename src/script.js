@@ -855,3 +855,14 @@ const myPlants = [
 
 const secondTree = myPlants[1].list[1];
 //Accessing Nested Arrays subtask 92
+// Setup
+const myArray = [];
+
+// Only change code below this line
+let i = 5;
+
+while (i >= 0) {
+  myArray.push(i);
+  i--;
+}
+//Iterate with JavaScript While Loops subtask 94
