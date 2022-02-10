@@ -923,3 +923,12 @@ do {
   i++;
 }while (i < 5);
 //Iterate with JavaScript Do...While Loops subtask 100
+function sum(arr, n) {
+  // Only change code below this line
+if (n <= 0) {
+      return 0;
+    } else {
+      return sum(arr, n - 1) + arr[n - 1];
+    }
+  }
+  // Replace Loops using Recursion subtask 101
