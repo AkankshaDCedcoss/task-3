@@ -997,3 +997,12 @@ if (n <= 0) {
     // Only change code above this line
   }
   //Generate Random Whole Numbers within a Range subtask 105
+  function convertToInteger(str) {
+    const convertToInteger =  parseInt(str);
+    return convertToInteger;
+  
+  }
+  
+  convertToInteger("56");
+  //Use the parseInt Function subtask 106
+  
