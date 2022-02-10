@@ -977,3 +977,10 @@ if (n <= 0) {
   
   lookUpProfile("Akira", "likes");
   //Profile Lookup subtask 102
+  function randomFraction() {
+
+    // Only change code below this line
+   return Math.random()
+  
+  }
+  //Generate Random Fractions with JavaScript subtask 103
