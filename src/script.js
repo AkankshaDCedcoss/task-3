@@ -914,3 +914,12 @@ unction multiplyAll(arr) {
 
 multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
 //Nesting For Loops subtask 99
+const myArray = [];
+let i = 10;
+
+// Only change code below this line
+do {
+  myArray.push(i);
+  i++;
+}while (i < 5);
+//Iterate with JavaScript Do...While Loops subtask 100
