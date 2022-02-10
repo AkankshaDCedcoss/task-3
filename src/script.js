@@ -645,3 +645,43 @@ if(a<0 || b<0)
 
 abTest(2,2);
 //Return Early Pattern for Functions subtask 79
+let count = 0;
+
+function cc(card) {
+  // Only change code below this line
+  switch(card)
+{
+  case 2:
+  case 3:
+  case 4:
+  case 5:
+  case 6:
+     count++;
+  break;
+  
+  case 10:
+  case 'J':
+  case 'Q':
+  case 'K':
+  case 'A':
+       count--;
+}
+       
+  
+        if(count > 0)
+        {
+          let x = count + " Bet";
+          return x;
+          
+        }
+        else
+        {
+          let y =count + " Hold";
+          return y;
+        }
+
+
+}
+
+cc(2); cc(3); cc(7); cc('K'); cc('A');
+//Counting Cards subtask 80
