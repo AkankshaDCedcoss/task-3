@@ -620,6 +620,14 @@ switch(val){
   return answer;
 }
 //Replacing If Else Chains with Switch subtask 77
+function isLess(a, b) {
+  // Only change code below this line
+  return a < b;
+  }
+  // Only change code above this line
 
+
+isLess(10, 15);
+//Returning Boolean Values from Functions subtask 78
 
 
