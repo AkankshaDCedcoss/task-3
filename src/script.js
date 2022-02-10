@@ -728,3 +728,11 @@ const testObj = {
 const playerNumber = 16;  // Change this line
 const player = testObj[playerNumber];   // Change this line
 //Accessing Object Properties with Variables subtask 84
+const myDog = {
+  "name": "Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["freeCodeCamp Campers"]
+};
+myDog.name = "Happy Coder";
+//Updating Object Properties subtask 85
