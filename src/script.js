@@ -1040,3 +1040,18 @@ if (n <= 0) {
     }
     return;
     //Use Recursion to Create a Countdown subtask 110
+    function rangeOfNumbers(startNum, endNum) {
+      if(startNum-endNum ===0)
+      {
+        return [startNum];
+      }
+      else
+      {
+      var x=rangeOfNumbers(startNum, endNum-1);
+      x.push(endNum);
+      return x;
+      }
+    
+      return [];
+    };
+    //Use Recursion to Create a Range of Numbers 
