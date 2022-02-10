@@ -685,3 +685,14 @@ function cc(card) {
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
 //Counting Cards subtask 80
+const myDog = {
+  // Only change code below this line
+  "name" :"rosy",
+  "legs" : 4 ,
+  "tails" : 1 ,
+  "friends" : ["mini" , " bruno"]
+
+
+  // Only change code above this line
+};
+//Build JavaScript Objects subtask 81
