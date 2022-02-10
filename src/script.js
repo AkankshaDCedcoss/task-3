@@ -1030,3 +1030,13 @@ if (n <= 0) {
    
    checkSign(10);
    //Use Multiple Conditional (Ternary) Operators subtask 109
+   unction countdown(n){
+    if (n < 1) {
+      return [];
+    } else {
+      const countArray = countdown(n - 1);
+      countArray.unshift(n);
+      return countArray;
+    }
+    return;
+    //Use Recursion to Create a Countdown subtask 110
